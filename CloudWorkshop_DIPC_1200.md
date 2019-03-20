@@ -659,3 +659,31 @@ We will create a job that runs data through the process we just created.This job
 ![](images/1200/image1200_118.png)
 
 12.	Click the "Run" icon in the toolbar to run the job. Note the "Tasks Window" in the bottom left of the "Director"
+
+
+
+### Case Management 
+
+Case Management supports the manual investigation of results from data quality processes. Using Case Management, privileged users can manage and review matching results using highly configurable workflows.
+
+The below module aims at giving an overview of case management and ways to validate the data in Case management console.
+
+1.	The processes,jobs, workflows required for case management are given below. Download them and store it in your local system.
+
+<a href='https://github.com/OracleCPS/DIPC/blob/master/images/1200/Case_Management_Project.dxi'> Case_Management_Project.dxi </a> <br />
+<a href='https://github.com/OracleCPS/DIPC/blob/master/images/1200/Case_Workflow.dxic'> Case_Workflow.dxic </a> <br />
+<a href='https://github.com/OracleCPS/DIPC/blob/master/images/1200/Alert_Workflow.dxic'> Alert_Workflow.dxic </a> <br />
+
+2.	 Click “Next” on the first window of the dialog since the Staged Data is already selected
+
+![](images/1200/image1200_109.png)
+
+3.	Select “Connection to Oracle Database” for Output data store. Click “Next”
+
+![](images/1200/image1200_110.png)
+
+4.	Select “CLEAN_CUSTOMERS” table. Click on “Next”
+
+![](images/1200/image1200_111.png)
+
+5.  Click Next on the screen.
