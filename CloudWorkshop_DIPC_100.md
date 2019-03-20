@@ -4,17 +4,19 @@
 
 ## Before You Begin
 
+### Introduction
+Oracle Data Integration Platform Cloud (DIPC) simplifies your data integration by working with on-premises and cloud data source/targetss and accepting data in any shape or format. This lab will guide you on how to provision an instance of DIPC
+
 ### Objectives
-- Provision a Data Integration Cloud Service instance (DIPC). 
+- Provision a Data Integration Platform Cloud (DIPC) instance 
 
 ### Time to Complete
-Approximately 30 minutes, not including wait time for service activations.
+Approximately 30 minutes
 
 ### What Do You Need?
 Your will need:
 - Oracle Cloud URL
 - Oracle Cloud User and Password
-- General understanding of RDBMS and data integration concepts
 
 
 ## Logging Into Oracle Cloud Instance
@@ -28,8 +30,8 @@ Your will need:
 ![](images/100/image100_01.png)
 
 If for any reason this screen does NOT come up:
-1. Click on the circle with tyour user's initials located at the top right corner of your screen
-2. Then select "My Home"
+1. Click on the circle with tyour user's initials located at the top right corner of your screen.
+2. Then select "My Home".
 ![](images/100/image100_02.png)
 
 
@@ -39,7 +41,7 @@ In this section, you create an Oracle Data Integration Platform Cloud instance u
 
 1. Scroll in your home screen until you locate "Data Integration Platform" service and click on it. ![](images/Common/Login/imageCommL_03.png)
 
-2. In the Data Integration Platform Cloud console page, click the "Create Instance" button. ![](images/100/image100_12p.png)
+2. In the Data Integration Platform Cloud console page, click the "Create Instance" button. ![](images/100/image100_12ap.png)![](images/100/image100_12p.png)
 
 3. Complete the Instance Information fields as follows, and then click the "Next" button:
     - Instance Name: DIPCABC
