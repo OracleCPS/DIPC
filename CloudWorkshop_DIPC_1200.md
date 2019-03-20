@@ -694,3 +694,5 @@ The below module aims at giving an overview of case management and ways to valid
 
 ![](images/1200/image1200_125.PNG)
 
+6.  Now Open the EDQ Director and import the Case Management Project in EDQ.
+
