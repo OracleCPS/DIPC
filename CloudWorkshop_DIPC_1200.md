@@ -674,16 +674,23 @@ The below module aims at giving an overview of case management and ways to valid
 <a href='https://github.com/OracleCPS/DIPC/blob/master/images/1200/Case_Workflow.dxic'> Case_Workflow.dxic </a> <br />
 <a href='https://github.com/OracleCPS/DIPC/blob/master/images/1200/Alert_Workflow.dxic'> Alert_Workflow.dxic </a> <br />
 
-2.	 Click “Next” on the first window of the dialog since the Staged Data is already selected
+2.	 Open Case Management Administration in EDQ console.
 
-![](images/1200/image1200_109.png)
+![](images/1200/image1200_120.png)
 
-3.	Select “Connection to Oracle Database” for Output data store. Click “Next”
+3.	Select Workflow Administration.
 
-![](images/1200/image1200_110.png)
+![](images/1200/image1200_121.png)
 
-4.	Select “CLEAN_CUSTOMERS” table. Click on “Next”
+4.	Click on imports and select the case workflow path in Client file and select Ok.
 
-![](images/1200/image1200_111.png)
+![](images/1200/image1200_122.png)
 
-5.  Click Next on the screen.
+![](images/1200/image1200_123.png)
+
+![](images/1200/image1200_124.png)
+
+5.  Similarly, import the Alert Workflow. 
+
+![](images/1200/image1200_125.png)
+
