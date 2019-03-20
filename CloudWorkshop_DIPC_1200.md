@@ -676,21 +676,21 @@ The below module aims at giving an overview of case management and ways to valid
 
 2.	 Open Case Management Administration in EDQ console.
 
-![](images/1200/image1200_120.png)
+![](images/1200/image1200_120.PNG)
 
 3.	Select Workflow Administration.
 
-![](images/1200/image1200_121.png)
+![](images/1200/image1200_121.PNG)
 
 4.	Click on imports and select the case workflow path in Client file and select Ok.
 
-![](images/1200/image1200_122.png)
+![](images/1200/image1200_122.PNG)
 
-![](images/1200/image1200_123.png)
+![](images/1200/image1200_123.PNG)
 
-![](images/1200/image1200_124.png)
+![](images/1200/image1200_124.PNG)
 
 5.  Similarly, import the Alert Workflow. 
 
-![](images/1200/image1200_125.png)
+![](images/1200/image1200_125.PNG)
 
