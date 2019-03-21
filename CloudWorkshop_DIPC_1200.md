@@ -696,29 +696,29 @@ The below module aims at giving an overview of case management and ways to valid
 
 6.  Now Open the EDQ Director and import the Case Management Project (downloaded in step 1) in EDQ.
 
-![](images/1200/image1200_126.PNG)
+![](images/1200/image1200_126.png)
 
 7. Run the case management job in the director.
 
-![](images/1200/image1200_127.PNG)
+![](images/1200/image1200_127.png)
 
 8. Once the job is completed, logon to the Case Management in EDQ.
 
-![](images/1200/image1200_128.PNG)
+![](images/1200/image1200_128.png)
 
-![](images/1200/image1200_129.PNG)
+![](images/1200/image1200_129.png)
 
-![](images/1200/image1200_130.PNG)
+![](images/1200/image1200_130.png)
 
 9. Case Management console will appear on screen. Click on filter.
 
-![](images/1200/image1200_131.PNG)
+![](images/1200/image1200_131.png)
 
 10. Select case, alert and case source "Customer_Errors". Click on Run button.
 
-![](images/1200/image1200_132.PNG)
+![](images/1200/image1200_132.png)
 
-![](images/1200/image1200_133.PNG)
+![](images/1200/image1200_133.png)
 
 11. Data errors will be displayed on the right side of the screen. It can be observed that current state of error is open for all the records.
 
