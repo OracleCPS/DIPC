@@ -682,7 +682,7 @@ The below module aims at giving an overview of case management and ways to valid
 
 ![](images/1200/image1200_121.PNG)
 
-4.	Click on imports and select the case workflow path in Client file and select Ok.
+4.	Click on import and select the case workflow path in Client file (case workflow is downloaded in step 1) and select Ok.
 
 ![](images/1200/image1200_122.PNG)
 
@@ -690,9 +690,60 @@ The below module aims at giving an overview of case management and ways to valid
 
 ![](images/1200/image1200_124.PNG)
 
-5.  Similarly, import the Alert Workflow. 
+5.  Similarly, import the Alert Workflow (Alert workflow is downloaded in step 1). 
 
 ![](images/1200/image1200_125.PNG)
 
-6.  Now Open the EDQ Director and import the Case Management Project in EDQ.
+6.  Now Open the EDQ Director and import the Case Management Project (downloaded in step 1) in EDQ.
 
+![](images/1200/image1200_126.PNG)
+
+7. Run the case management job in the director.
+
+![](images/1200/image1200_127.PNG)
+
+8. Once the job is completed, logon to the Case Management in EDQ.
+
+![](images/1200/image1200_128.PNG)
+
+![](images/1200/image1200_129.PNG)
+
+![](images/1200/image1200_130.PNG)
+
+9. Case Management console will appear on screen. Click on filter.
+
+![](images/1200/image1200_131.PNG)
+
+10. Select case, alert and case source "Customer_Errors". Click on Run button.
+
+![](images/1200/image1200_132.PNG)
+
+![](images/1200/image1200_133.PNG)
+
+11. Data errors will be displayed on the right side of the screen. It can be observed that current state of error is open for all the records.
+
+![](images/1200/image1200_134.PNG)
+
+12. Now, let us take a sample record, correct the errors in the source database and re-run the case management. Below is the screenshot of the update operation performed on a sample record in database.
+
+![](images/1200/image1200_135.PNG)
+
+13. Execute the case management job in EDQ director.
+
+![](images/1200/image1200_136.PNG)
+
+14. Execute the Run filter option in case management.
+
+![](images/1200/image1200_137.PNG)
+
+15. Type the Error id in the "Jump to id" text input and press enter.
+
+![](images/1200/image1200_138.PNG)
+
+16. The Status of error will be changed from Open to Remediated and it will be displayed on screen.
+
+![](images/1200/image1200_139.PNG)
+
+Data issues / errors can be monitored using Case management and the necessary actions can be taken to correct the data. Once the data is corrected, the status of the error changes from open to remediated in case management. Error Status changes from remediated to reopened if the error recur.
+
+This completes the case management demo. 
