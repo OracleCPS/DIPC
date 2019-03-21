@@ -726,6 +726,8 @@ The below module aims at giving an overview of case management and ways to valid
 
 12. Now, let us take a sample record, correct the errors in the source database and re-run the case management. Below is the screenshot of the update operation performed on a sample record in database.
 
+![](images/1200/image1200_135_0.PNG)
+
 ![](images/1200/image1200_135.PNG)
 
 13. Execute the case management job in EDQ director.
